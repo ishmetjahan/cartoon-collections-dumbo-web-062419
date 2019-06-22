@@ -16,7 +16,8 @@ end
 return newArr
 end
 
-def long_planeteer_calls
+def long_planeteer_calls (arr)
+  
 end
 
 def find_the_cheese# code an argument here
