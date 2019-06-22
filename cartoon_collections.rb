@@ -7,9 +7,13 @@ end
 end
 
 def summon_captain_planet (arr)
- # newArr= []
-#arr.each do |ele|
- # newArr<< ele.capitalize + "!"
+  newArr= []
+  i=0 
+  while i<arr.length 
+  newArr<< arr[i].capitalize + "!"
+  i+=1 
+end
+return newArr
 end
 
 def long_planeteer_calls
