@@ -6,11 +6,11 @@ def roll_call_dwarves (arr)
 end
 end
 
-def summon_captain_planet (arr)
+#def summon_captain_planet (arr)
   newArr= []
 arr.each do |ele|
-  newArr<< ele.capitalize + "!"
-end
+ # newArr<< ele.capitalize + "!"
+#end
 
 def long_planeteer_calls
 end
