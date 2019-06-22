@@ -27,6 +27,8 @@ def long_planeteer_calls (arr)
 end
 
 def find_the_cheese (arr)
-
   cheese_types = ["cheddar", "gouda", "camembert"]
+  cheese_types = arr 
+  arr.find do |ele|
+    arr.
 end
